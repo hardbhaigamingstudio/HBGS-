@@ -1,2 +1,2 @@
-# HBGS-
+# HBGS
 HBGS Engine
